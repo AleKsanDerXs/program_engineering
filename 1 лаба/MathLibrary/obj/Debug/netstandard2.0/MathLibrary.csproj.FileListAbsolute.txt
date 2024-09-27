@@ -1,0 +1,10 @@
+D:\Прогер проекты\Балабасова\1 лаба\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.deps.json
+D:\Прогер проекты\Балабасова\1 лаба\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.dll
+D:\Прогер проекты\Балабасова\1 лаба\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.pdb
+D:\Прогер проекты\Балабасова\1 лаба\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прогер проекты\Балабасова\1 лаба\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfoInputs.cache
+D:\Прогер проекты\Балабасова\1 лаба\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfo.cs
+D:\Прогер проекты\Балабасова\1 лаба\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csproj.CoreCompileInputs.cache
+D:\Прогер проекты\Балабасова\1 лаба\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.dll
+D:\Прогер проекты\Балабасова\1 лаба\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.pdb
+D:\Прогер проекты\Балабасова\1 лаба\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csproj.AssemblyReference.cache
