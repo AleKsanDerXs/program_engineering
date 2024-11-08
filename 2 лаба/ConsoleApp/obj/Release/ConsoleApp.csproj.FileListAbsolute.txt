@@ -17,3 +17,4 @@ D:\Прогер проекты\Балабасова\2 лаба\ConsoleApp\obj\Re
 D:\Прогер проекты\Балабасова\2 лаба\ConsoleApp\obj\Release\ConsoleApp.csproj.CopyComplete
 D:\Прогер проекты\Балабасова\2 лаба\ConsoleApp\obj\Release\ConsoleApp.exe
 D:\Прогер проекты\Балабасова\2 лаба\ConsoleApp\obj\Release\ConsoleApp.pdb
+D:\Прогер проекты\Балабасова\2 лаба\ConsoleApp\bin\Release\MathLibrary.dll
