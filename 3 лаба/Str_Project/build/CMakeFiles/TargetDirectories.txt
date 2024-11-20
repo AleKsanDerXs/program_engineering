@@ -1,0 +1,9 @@
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/CMakeFiles/INSTALL.dir
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/CMakeFiles/ALL_BUILD.dir
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/CMakeFiles/ZERO_CHECK.dir
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/TextOperations/CMakeFiles/Library.dir
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/TextOperations/CMakeFiles/INSTALL.dir
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/TextOperations/CMakeFiles/ALL_BUILD.dir
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/Str_App/CMakeFiles/App.dir
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/Str_App/CMakeFiles/INSTALL.dir
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/Str_App/CMakeFiles/ALL_BUILD.dir

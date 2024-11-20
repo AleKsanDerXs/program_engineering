@@ -1,0 +1,4 @@
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/install/lib/Library.lib
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/install/lib/Library.dll
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/install/include/Meo.h
+D:/Прогер_проекты/Балабасова/3 лаба/Str_Project/build/install/bin/App.exe

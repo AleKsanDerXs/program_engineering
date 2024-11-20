@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.35325.158
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Str_App", "Str_App\Str_App.vcxproj", "{0F959CFC-8557-4B4E-B02F-BAB749759EC1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "App", "Str_App\Str_App.vcxproj", "{0F959CFC-8557-4B4E-B02F-BAB749759EC1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextOperations", "TextOperations\TextOperations.vcxproj", "{9284684C-8EDF-406F-8172-5935D7A78BF8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibDir", "TextOperations\TextOperations.vcxproj", "{9284684C-8EDF-406F-8172-5935D7A78BF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31EAE554-8509-4E26-B1EA-C85AEBAB6CC4}"
+	ProjectSection(SolutionItems) = preProject
+		CMakeLists.txt = CMakeLists.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
