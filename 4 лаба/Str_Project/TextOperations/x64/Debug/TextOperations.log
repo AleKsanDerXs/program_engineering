@@ -1,0 +1,6 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (TextOperations.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Library.cpp
+D:\Прогер_проекты\Балабасова\3 лаба\Str_Project\TextOperations\Library.cpp(11,5): warning C4273: TextLibrary::Meow: несовместимое связывание dll
+D:\Прогер_проекты\Балабасова\3 лаба\Str_Project\TextOperations\Meo.h(17,28): message : см. предыдущее определение "Meow"
+     Создается библиотека D:\Прогер_проекты\Балабасова\3 лаба\Str_Project\x64\Debug\LibDir.lib и объект D:\Прогер_проекты\Балабасова\3 лаба\Str_Project\x64\Debug\LibDir.exp
+  TextOperations.vcxproj -> D:\Прогер_проекты\Балабасова\3 лаба\Str_Project\x64\Debug\LibDir.dll

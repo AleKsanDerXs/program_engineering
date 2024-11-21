@@ -18,3 +18,4 @@ target_link_libraries(App Library)
 install(TARGETS App
     RUNTIME DESTINATION bin
 )
+

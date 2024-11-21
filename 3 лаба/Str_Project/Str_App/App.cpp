@@ -14,7 +14,7 @@ void ClearInput()
     std::cin.ignore(10000, '\n');     // Очищаем буфер ввода
 }
 
-void PrintMenu()
+void Menu()
 {
     std::cout << "Программа для работы с котятами\n";
     std::cout << "Выберите операцию:\n";
@@ -25,7 +25,7 @@ int main()
 {   
     std::string cat = "";
     SetConsoleOutputCP(CP_UTF8);
-    PrintMenu();
+    Menu();
     while (true)
     {
 
@@ -35,7 +35,7 @@ int main()
         // Обработка команды --help
         if (userInput == "--help")
         {
-            PrintMenu();
+            Menu();
             continue;
         }
 
