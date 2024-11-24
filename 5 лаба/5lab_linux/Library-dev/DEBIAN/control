@@ -1,0 +1,8 @@
+Package: library-dev
+Version: 1.0
+Section: libdevel
+Priority: optional
+Architecture: all
+Depends: library (>= 1.0)
+Maintainer: Александр <magonov2005@gmail.com>
+Description: Заголовочные файлы для библиотеки Library. Header files for Library.

@@ -1,0 +1,7 @@
+Package: library
+Version: 1.0
+Section: libs
+Priority: optional
+Architecture: amd64
+Maintainer: Александр <magonov2005@gmail.com>
+Description: Библиотека для работы с текстом. Library for working with text cats.

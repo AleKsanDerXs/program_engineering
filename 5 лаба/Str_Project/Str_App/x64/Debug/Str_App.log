@@ -1,0 +1,4 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Str_App.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (TextOperations.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  App.cpp
+  Str_App.vcxproj -> D:\Прогер_проекты\Балабасова\3 лаба\Str_Project\x64\Debug\App.exe

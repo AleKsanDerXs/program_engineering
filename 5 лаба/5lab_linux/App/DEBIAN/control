@@ -1,0 +1,11 @@
+Package: app
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: library (>= 1.0)
+Maintainer: Александр <magonov2005@gmail.com>
+Description: Программа для работы с котятами.
+ Добавляет и удаляет виртуальных котиков.
+ Library for work with cats.
+ Add and kill virtual cats.
